@@ -1,0 +1,194 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-03-14
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Block 1_1
+YRT
+1023
+
+------------------------------------
+
+  Dep.: 5:37:0
+[addtrip]
+YRT 1_1_1pi
+0
+337.000
+
+  Dep.: 6:16:0
+[addtrip]
+YRT 1_1_1pi
+0
+376.000
+
+  Dep.: 6:55:0
+[addtrip]
+YRT 1_1_1pi
+0
+415.000
+
+  Dep.: 7:34:0
+[addtrip]
+YRT 1_1_1pi
+0
+454.000
+
+  Dep.: 8:13:0
+[addtrip]
+YRT 1_1_1pi
+0
+493.000
+
+  Dep.: 8:52:0
+[addtrip]
+YRT 1_1_1pi
+0
+532.000
+
+  Dep.: 9:31:0
+[addtrip]
+YRT 1_1_1pi
+0
+571.000
+
+  Dep.: 10:10:0
+[addtrip]
+YRT 1_1_1pi
+0
+610.000
+
+  Dep.: 10:49:0
+[addtrip]
+YRT 1_1_1pi
+0
+649.000
+
+  Dep.: 11:28:0
+[addtrip]
+YRT 1_1_1pi
+0
+688.000
+
+  Dep.: 12:7:0
+[addtrip]
+YRT 1_1_1pi
+0
+727.000
+
+  Dep.: 12:46:0
+[addtrip]
+YRT 1_1_1pi
+0
+766.000
+
+  Dep.: 13:25:0
+[addtrip]
+YRT 1_1_1pi
+0
+805.000
+
+  Dep.: 14:4:0
+[addtrip]
+YRT 1_1_1pi
+0
+844.000
+
+  Dep.: 14:43:0
+[addtrip]
+YRT 1_1_1pi
+0
+883.000
+
+  Dep.: 15:22:0
+[addtrip]
+YRT 1_1_1pi
+0
+922.000
+
+  Dep.: 16:1:0
+[addtrip]
+YRT 1_1_1pi
+0
+961.000
+
+  Dep.: 16:40:0
+[addtrip]
+YRT 1_1_1pi
+0
+1000.000
+
+  Dep.: 17:19:0
+[addtrip]
+YRT 1_1_1pi
+0
+1039.000
+
+  Dep.: 17:58:0
+[addtrip]
+YRT 1_1_1pi
+0
+1078.000
+
+  Dep.: 18:37:0
+[addtrip]
+YRT 1_1_1pi
+0
+1117.000
+
+  Dep.: 19:16:0
+[addtrip]
+YRT 1_1_1pi
+0
+1156.000
+
+  Dep.: 19:55:0
+[addtrip]
+YRT 1_1_1pi
+0
+1195.000
+
+  Dep.: 20:34:0
+[addtrip]
+YRT 1_1_1pi
+0
+1234.000
+
+  Dep.: 21:13:0
+[addtrip]
+YRT 1_1_1pi
+0
+1273.000
+
+  Dep.: 21:52:0
+[addtrip]
+YRT 1_1_1pi
+0
+1312.000
+
+  Dep.: 22:31:0
+[addtrip]
+YRT 1_1_1pi
+0
+1351.000
+
+  Dep.: 23:10:0
+[addtrip]
+YRT 1_1_1pi
+0
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+YRT 1_1_1pi
+0
+1420.000
+

@@ -1,0 +1,83 @@
+[name]
+NJC-GO
+
+[servicetrip]
+GO_Transit
+
+[global_strings]
+5
+GO_TRANSIT
+True
+True
+LOCKEDLINE
+RUNSHEET
+
+stringcount_terminus
+8
+
+stringcount_busstop
+4
+
+
+[addterminus_list]
+	0	Empty	EMPTY						A3ME	^
+	0	Not In Service	NOT IN SERVICE	SORRY...	NOT IN SERVICE				NIS	^
+	0	New John City	NEW JOHN CITY	NEW JOHN CITY				NJC	NJC	^
+	0	SIGN IN	SIGN IN	* SIGN IN *				A3 ME	A3ME	^
+	0	Chartered	CHARTERED	C H A R T E R E D				CHART	CHAR	^
+	0	Training Bus	TRAINING BUS	TRAINING BUS					TRAINING	^
+	0	Special	SPECIAL	S P E C I A L				SPEC	SPEC	^
+	0	Special Express	SPECIAL	S P E C I A L		E X P R E S S		SPEC	SPEC-EXPRESS	^
+	0	NIS EXPRESS	NOT IN SERVICE	SORRY...	NOT IN SERVICE	E X P R E S S		RTE	NIS-EXPRESS	^
+	0	33 Somewhere SB	SOMEWHERE MALL	SOMEWHERE				
+	0	68 Orangeville NB	ORANGEVILLE MALL	ORANGEVILLE MALL	HUMBER COLLEGE			68	EXT_27F-FINCH	68
+	0	68A Orangeville NB	ORANGEVILLE MALL	ORANGEVILLE MALL	FINCH AVENUE			68A	EXT_27F-FINCH	68A
+[end]
+
+[addbusstop_list]
+5795 Yonge Street	5795 YONGE	5795 Yonge Street
+Alton Towers Circle N	ALTON TOWERS CIR	Alton Towers Circle	North
+Alton Towers Circle S	ALTON TOWERS CIR	Alton Towers Circle	South
+Chestnut Hills Crescent	CHESTNUT HILLS	Chestnut Hills Crescent
+Colborne Lodge Drive	COLBORNE LODGE	Colborne Lodge Drive
+College View Avenue	COLLEGE VIEW	College View Avenue
+Edge Park Avenue	EDGE PARK	Edge Park Avenue
+Endell Street	ENDELL	Endell Street
+Humber College Boulevard	HUMBER COLLEGE BLVD	Humber College Boulevard
+Humber College Bus Terminal	HUMBER COLLEGE BUS	Humber College Bus	Terminal
+Humber River Regional Hospital	HOSPITAL	Humber River Regional	Hospital
+Louvain Street	LOUVAIN	Louvain Street
+Millway Avenue	MILLWAY	Millway Avenue
+North Heights Road	NORTH HTS	North Heights Road
+Northwest Gt - Pioneer Village Stn	NORTHWEST GT	Northwest Gate	Pioneer Village Stn
+Pioneer Village Stn	PIONEER VILLAGE STN	Pioneer Village Stn
+Pippin Road	PIPPIN	Pippin Road
+Steeles Ave West - YRT	STEELES W	Steeles Avenue West	Change for YRT
+Tower Drive	TOWER	Tower Drive
+Upjohn Road	UPJOHN	Upjohn Road
+Uptown Drive	UPTOWN	Uptown Drive
+Varsity Road	VARSITY	Varsity Road
+Worcester Road	WORCESTER	Worcester Road
+Yonge Street	YONGE	Yonge Street
+York Mills Road	YORK MILLS	York Mills Road
+York Mills Road N	YORK MILLS	York Mills Road
+York Mills Road S	YORK MILLS	York Mills Road
+DIXON ROAD ARRIVE	DIXON	Arriving at Dixon	Road
+DIXON ROAD EXPRESS	DIXON	Dixon Road Express	Service
+VALLEY WOODS ROAD ARRIVE	VALLEY WOODS	Valley Woods Road
+VALLEY WOODS ROAD EXPRESS	VALLEY WOODS	Valley Woods Road	Express Service
+SHEPPARD STN ARRIVE	SHEPPARD STN	Sheppard  Stn
+SHEPPARD STN EXPRESS	SHEPPARD STN	Sheppard  Stn	Express Service
+[end]
+	[infosystem_trip]												
+	{routecode} (z.B. '540001', integer)												
+	{routestring} (ggf. für IBIS-Gerät oder vieleicht später auch zum Setzen)												
+	{terminuscode}												
+	{line string} (z.B. '54 ')												
+													
+	[infosystem_busstop]												
+	{string0: IBIS-Name}												
+	{string1: LCD 1. Zeile links}												
+	{string2: LCD 1. Zeile rechts}												
+	{string3: LCD 2. Zeile links}												
+	{string4: LCD 2. Zeile rechts}					

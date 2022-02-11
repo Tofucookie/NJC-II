@@ -1,0 +1,52 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-07-24
+
+[trip]
+
+320 Yonge - Townsley
+320
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2930
+
+[station_typ2]
+113
+
+[station_typ2]
+13890
+
+[station_typ2]
+13891
+
+[station_typ2]
+14082
+
+[station_typ2]
+14042
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+overnight
+2.000
+
+[profile_otherstopping]
+0
+2
+[profile_man_arr_time]
+1
+1.000
+[profile_otherstopping]
+1
+3

@@ -1,0 +1,50 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+913_1_10 Mon-Fri
+Central Division
+31
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+913_1_YWEG
+0
+360.000
+
+  Dep.: 6:7:0
+[addtrip]
+913_1_dvp913B
+0
+367.000
+
+  Dep.: 6:40:0
+[addtrip]
+913_0_913B
+0
+400.000
+
+  Dep.: 7:20:0
+[addtrip]
+913_1_913B
+0
+440.000
+
+  Dep.: 8:0:0
+[addtrip]
+913_0_913B
+0
+480.000
+

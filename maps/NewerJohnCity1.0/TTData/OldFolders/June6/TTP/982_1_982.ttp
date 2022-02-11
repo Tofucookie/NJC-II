@@ -1,0 +1,76 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+982 Colossus Express - Colossus Ctr AM
+982
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+4630
+
+[station_typ2]
+1909
+
+[station_typ2]
+224
+
+[station_typ2]
+1910
+
+[station_typ2]
+6327
+
+[station_typ2]
+6321
+
+[station_typ2]
+1911
+
+[station_typ2]
+6358
+
+[station_typ2]
+6359
+
+[station_typ2]
+10510
+
+[station_typ2]
+7657
+
+[station_typ2]
+7661
+
+[station_typ2]
+7665
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+rush-hour
+12.000
+
+[profile_otherstopping]
+3
+2
+[profile_man_arr_time]
+5
+5.000
+[profile_man_arr_time]
+8
+8.000
+[profile_man_arr_time]
+12
+12.000

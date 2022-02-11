@@ -1,0 +1,371 @@
+-----------------2016------------------------------
+
+[holiday]
+20160101
+New Year's Day
+
+[holiday]
+20160215
+Family Day
+
+[holiday]
+20160325
+Good Friday
+
+[holiday]
+20160327
+Easter Sunday
+
+[holiday]
+20160523
+Victoria Day
+
+[holiday]
+20160701
+Canada Day
+
+[holiday]
+20160704
+Independence Day
+
+[holiday]
+20160801
+Simcoe Day
+
+[holiday]
+20160905
+Labour Day
+
+[holiday]
+20161010
+Canadian Thanksgiving Day
+
+[holiday]
+20161111
+Remembrance Day
+
+[holiday]
+20161224
+Christmas Eve
+
+[holiday]
+20161225
+Christmas
+
+[holiday]
+20161226
+Boxing Day
+
+[holiday]
+20161227
+Bus Driver's Boxing Day
+
+[holiday]
+20161231
+New Year's Eve
+
+-----------------2017------------------------------
+
+[holiday]
+20170101
+New Year's Day
+
+[holiday]
+20170215
+Family Day
+
+[holiday]
+20170325
+Good Friday
+
+[holiday]
+20170327
+Easter Sunday
+
+[holiday]
+20170522
+Victoria Day
+
+[holiday]
+20170701
+Canada Day
+
+[holiday]
+20170704
+Independence Day
+
+[holiday]
+20170801
+Simcoe Day
+
+[holiday]
+20170905
+Labour Day
+
+[holiday]
+20171010
+Canadian Thanksgiving Day
+
+[holiday]
+20171111
+Remembrance Day
+
+[holiday]
+20171224
+Christmas Eve
+
+[holiday]
+20171225
+Christmas
+
+[holiday]
+20171226
+Boxing Day
+
+[holiday]
+20171227
+Bus Driver's Boxing Day
+
+[holiday]
+20171231
+New Year's Eve
+
+
+-----------------2018------------------------------
+
+[holiday]
+20180101
+New Year's Day
+
+[holiday]
+20180219
+Family Day
+
+[holiday]
+20180330
+Good Friday
+
+[holiday]
+20180401
+Easter Sunday
+
+[holiday]
+20180402
+Easter Monday
+
+[holiday]
+20180521
+Victoria Day
+
+[holiday]
+20180701
+Canada Day
+
+[holiday]
+20180702
+Canada Day Stat. Holiday
+
+[holiday]
+20180704
+American Independence Day
+
+[holiday]
+20180806
+Simcoe Day
+
+[holiday]
+20180903
+Labour Day
+
+[holiday]
+20181008
+Canadian Thanksgiving
+
+[holiday]
+20181122
+American Thanksgiving
+
+[holiday]
+20181125
+New John City Day
+
+[holiday]
+20181224
+Christmas Eve
+
+[holiday]
+20181225
+Christmas Day
+
+[holiday]
+20181226
+Boxing Day
+
+[holiday]
+20181231
+New Year's Eve
+
+
+
+-----------------2019------------------------------
+
+[holiday]
+20190101
+New Year's Day
+
+[holiday]
+20190218
+Family Day
+
+[holiday]
+20190419
+Good Friday
+
+[holiday]
+20190421
+Easter Sunday
+
+[holiday]
+20190422
+Easter Monday
+
+[holiday]
+20190520
+Victoria Day
+
+[holiday]
+20190701
+Canada Day
+
+[holiday]
+20190702
+Canada Day Stat. Holiday
+
+[holiday]
+20190704
+American Independence Day
+
+[holiday]
+20190805
+Simcoe Day
+
+[holiday]
+20190902
+Labour Day
+
+[holiday]
+20191014
+Canadian Thanksgiving
+
+[holiday]
+20191128
+American Thanksgiving
+
+[holiday]
+20191125
+New John City Day
+
+[holiday]
+20191224
+Christmas Eve
+
+[holiday]
+20191225
+Christmas Day
+
+[holiday]
+20191226
+Boxing Day
+
+[holiday]
+20191231
+New Year's Eve
+
+
+
+
+-----------------2020------------------------------
+
+[holiday]
+20200101
+New Year's Day
+
+[holiday]
+20200701
+Canada Day
+
+[holiday]
+20200803
+Simcoe Day
+
+[holiday]
+20200907
+Labour Day
+
+[holiday]
+20201012
+Canadian Thanksgiving
+
+[holiday]
+20201125
+New John City Day
+
+[holiday]
+20201224
+Christmas Eve
+
+[holiday]
+20201225
+Christmas Day
+
+[holiday]
+20201226
+Boxing Day
+
+[holiday]
+20201231
+New Year's Eve
+
+
+
+-----------------2020------------------------------
+
+[holiday]
+20210101
+New Year's Day
+
+[holiday]
+20210701
+Canada Day
+
+[holiday]
+20210803
+Simcoe Day
+
+[holiday]
+20200907
+Labour Day
+
+[holiday]
+20211012
+Canadian Thanksgiving
+
+[holiday]
+20211125
+New John City Day
+
+[holiday]
+20211224
+Christmas Eve
+
+[holiday]
+20211225
+Christmas Day
+
+[holiday]
+20211226
+Boxing Day
+
+[holiday]
+20211231
+New Year's Eve

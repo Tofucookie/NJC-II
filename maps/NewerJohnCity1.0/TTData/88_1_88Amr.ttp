@@ -1,0 +1,70 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-11-18
+
+[trip]
+
+88S Brandonville - Mill Rd
+88S
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2549
+
+[station_typ2]
+8
+
+[station_typ2]
+2527
+
+[station_typ2]
+2535
+
+[station_typ2]
+2020
+
+[station_typ2]
+2499
+
+[station_typ2]
+2016
+
+[station_typ2]
+2509
+
+[station_typ2]
+2554
+
+[station_typ2]
+5134
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+weekday-rush
+8.000
+
+[profile_man_arr_time]
+0
+0.000
+[profile_man_dep_time]
+0
+0.499
+[profile_otherstopping]
+0
+4
+[profile_man_arr_time]
+5
+4.000
+[profile_man_arr_time]
+9
+8.000

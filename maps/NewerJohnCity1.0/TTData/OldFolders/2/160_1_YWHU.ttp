@@ -1,0 +1,67 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-07-24
+
+[trip]
+
+HUMBER COLLEGE
+
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+7919
+
+[station_typ2]
+2744
+
+[station_typ2]
+6018
+
+[station_typ2]
+6022
+
+[station_typ2]
+3005
+
+[station_typ2]
+2904
+
+[station_typ2]
+1915
+
+[station_typ2]
+1347
+
+[station_typ2]
+1657
+
+[station_typ2]
+1675
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+weekday-emorning
+9.000
+
+[profile_man_arr_time]
+0
+0.000
+[profile_man_dep_time]
+0
+0.499
+[profile_otherstopping]
+0
+4
+[profile_man_arr_time]
+5
+3.000

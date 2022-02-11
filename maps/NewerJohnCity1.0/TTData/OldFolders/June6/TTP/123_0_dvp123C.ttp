@@ -1,0 +1,67 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+123C Glenburn Valley - Mill Rd
+123C
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+4805
+
+[station_typ2]
+5142
+
+[station_typ2]
+4822
+
+[station_typ2]
+16040
+
+[station_typ2]
+16044
+
+[station_typ2]
+16048
+
+[station_typ2]
+16052
+
+[station_typ2]
+16339
+
+[station_typ2]
+16459
+
+[station_typ2]
+16769
+
+[station_typ2]
+16765
+
+[station_typ2]
+5134
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+weekday-emorning
+5.000
+
+[profile_otherstopping]
+0
+4
+[profile_man_arr_time]
+3
+1.000

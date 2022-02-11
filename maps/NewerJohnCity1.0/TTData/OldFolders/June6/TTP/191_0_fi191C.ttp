@@ -1,0 +1,46 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+191S Highway 27 Rocket - Finch
+191S
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+1690
+
+[station_typ2]
+1661
+
+[station_typ2]
+1899
+
+[station_typ2]
+1650
+
+[station_typ2]
+3006
+
+[station_typ2]
+6396
+
+[station_typ2]
+6397
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+9.000
+

@@ -1,0 +1,20 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-03-14
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+800_X1_10
+Central Division
+799
+
+------------------------------------
+

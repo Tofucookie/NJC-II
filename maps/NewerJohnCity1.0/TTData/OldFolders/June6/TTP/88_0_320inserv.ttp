@@ -1,0 +1,34 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+NIS-HIRING
+
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+7125
+
+[station_typ2]
+2930
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+1.000
+
+[profile_otherstopping]
+0
+2

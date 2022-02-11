@@ -1,0 +1,32 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+143_1_10 Mon-Fri
+Central Division Artics
+799
+
+------------------------------------
+
+  Dep.: 7:28:0
+[addtrip]
+143_0_YWTL
+0
+448.000
+
+  Dep.: 7:43:0
+[addtrip]
+143_1_143AM
+0
+463.000
+

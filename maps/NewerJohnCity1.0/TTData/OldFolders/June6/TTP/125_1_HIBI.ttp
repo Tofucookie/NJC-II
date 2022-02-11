@@ -1,0 +1,46 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+125 Drewry - Birchmount
+125
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+8072
+
+[station_typ2]
+15169
+
+[station_typ2]
+15314
+
+[station_typ2]
+15318
+
+[station_typ2]
+15297
+
+[station_typ2]
+15256
+
+[station_typ2]
+15285
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+midday
+4.000
+

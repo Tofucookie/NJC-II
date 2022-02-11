@@ -1,0 +1,76 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-11-18
+
+[trip]
+
+53B Steeles East - Bayview
+53B
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+8086
+
+[station_typ2]
+8123
+
+[station_typ2]
+1746
+
+[station_typ2]
+19054
+
+[station_typ2]
+19190
+
+[station_typ2]
+19050
+
+[station_typ2]
+19195
+
+[station_typ2]
+19252
+
+[station_typ2]
+19254
+
+[station_typ2]
+19296
+
+[station_typ2]
+19313
+
+[station_typ2]
+19120
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+6.000
+
+[profile_man_arr_time]
+0
+0.000
+[profile_man_dep_time]
+0
+0.499
+[profile_man_arr_time]
+3
+2.000
+[profile_man_arr_time]
+11
+6.000
+[profile_otherstopping]
+11
+4

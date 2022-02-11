@@ -1,0 +1,3 @@
+Vehicles\DBC_Chicago_Car_2\parked_car2.sco
+Vehicles\DBC_Chicago_Car_4\parked_car4.sco
+Vehicles\DBC_Chicago_Car_6\parked_car6.sco

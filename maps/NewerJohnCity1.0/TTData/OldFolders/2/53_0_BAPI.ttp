@@ -1,0 +1,70 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-07-24
+
+[trip]
+
+53 Steeles East - Humber College
+53
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+19120
+
+[station_typ2]
+19119
+
+[station_typ2]
+19318
+
+[station_typ2]
+19308
+
+[station_typ2]
+19300
+
+[station_typ2]
+19258
+
+[station_typ2]
+19199
+
+[station_typ2]
+19179
+
+[station_typ2]
+19323
+
+[station_typ2]
+1750
+
+[station_typ2]
+1923
+
+[station_typ2]
+8086
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+6.000
+
+[profile_otherstopping]
+0
+2
+[profile_man_arr_time]
+3
+1.000
+[profile_man_arr_time]
+8
+5.000

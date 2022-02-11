@@ -1,0 +1,37 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+88A Brandonville - Sheppard Stn
+88A
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2413
+
+[station_typ2]
+2417
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+1
+1.000
+
+[profile_otherstopping]
+0
+4
+[profile_otherstopping]
+1
+4

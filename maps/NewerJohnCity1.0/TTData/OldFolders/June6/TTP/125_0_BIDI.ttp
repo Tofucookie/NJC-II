@@ -1,0 +1,55 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+125S Drewry - Highway 27
+125S
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+15285
+
+[station_typ2]
+15289
+
+[station_typ2]
+15293
+
+[station_typ2]
+15302
+
+[station_typ2]
+15310
+
+[station_typ2]
+15306
+
+[station_typ2]
+8079
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+
+[profile_man_arr_time]
+0
+0.000
+[profile_man_dep_time]
+0
+0.499
+[profile_otherstopping]
+6
+4

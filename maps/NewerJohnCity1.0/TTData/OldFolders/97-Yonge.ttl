@@ -1,0 +1,89 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-15
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+97_91_500 Mon-Fri
+Central Division Artics
+1023
+
+------------------------------------
+
+  Dep.: 7:0:0
+[addtrip]
+98_1_YWPI
+0
+420.000
+
+  Dep.: 7:15:0
+[addtrip]
+97_0_97E
+0
+435.000
+
+  Dep.: 8:4:0
+[addtrip]
+413_0_SHTL
+0
+484.000
+
+  Dep.: 8:20:0
+[addtrip]
+413_1_413
+0
+500.000
+
+  Dep.: 8:50:0
+[addtrip]
+413_1_CHYW
+0
+530.000
+
+------------------------------------
+
+[newtour]
+97_91_502 Mon-Fri
+Central Division Artics
+1023
+
+------------------------------------
+
+  Dep.: 15:0:0
+[addtrip]
+413_0_YWCH
+0
+900.000
+
+  Dep.: 15:15:0
+[addtrip]
+413_0_413
+0
+915.000
+
+  Dep.: 16:5:0
+[addtrip]
+97_1_TLSH
+0
+965.000
+
+  Dep.: 16:10:0
+[addtrip]
+98_1_98E
+0
+970.000
+
+  Dep.: 16:57:0
+[addtrip]
+98_0_PIYW
+0
+1017.000
+

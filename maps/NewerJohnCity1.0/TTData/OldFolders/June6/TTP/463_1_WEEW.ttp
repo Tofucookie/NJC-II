@@ -1,0 +1,34 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+55 Hillside Estates - Eglinton W Stn
+55
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+4642
+
+[station_typ2]
+4711
+
+[station_typ2]
+5419
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+3.000
+

@@ -1,0 +1,69 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+123A Glenburn Valley - Sheppard Stn
+123A
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+7925
+
+[station_typ2]
+7703
+
+[station_typ2]
+4795
+
+[station_typ2]
+4817
+
+[station_typ2]
+4832
+
+[station_typ2]
+4833
+
+[station_typ2]
+4813
+
+[station_typ2]
+16040
+
+[station_typ2]
+16044
+
+[station_typ2]
+16048
+
+[station_typ2]
+16052
+
+[station_typ2]
+16339
+
+[station_typ2]
+16459
+
+[station_typ2]
+16769
+
+[station_typ2]
+16765
+
+[station_typ2]
+5134
+
+
+.........................
+        Profiles
+.........................
+

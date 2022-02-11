@@ -1,0 +1,46 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+320S Yonge - Sheppard Stn
+320S
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+14042
+
+[station_typ2]
+14048
+
+[station_typ2]
+14054
+
+[station_typ2]
+13926
+
+[station_typ2]
+13897
+
+[station_typ2]
+2549
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+3.000
+
+[profile_otherstopping]
+5
+1

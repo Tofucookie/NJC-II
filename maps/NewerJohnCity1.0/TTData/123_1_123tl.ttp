@@ -1,0 +1,49 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-11-18
+
+[trip]
+
+123S Glenburn Valley - Townley
+123S
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+4624
+
+[station_typ2]
+13890
+
+[station_typ2]
+13891
+
+[station_typ2]
+14082
+
+[station_typ2]
+14042
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+weekday-levening
+2.000
+
+[profile_man_arr_time]
+0
+0.000
+[profile_man_dep_time]
+0
+0.499
+[profile_otherstopping]
+4
+1

@@ -1,0 +1,71 @@
+[name]
+NJC-YRT2
+
+[servicetrip]
+NOT IN SERVICE
+
+[global_strings]
+5
+PorkRegionTransit
+True
+True
+LOCKEDLINE
+RUNSHEET
+
+stringcount_terminus
+8
+
+stringcount_busstop
+4
+
+
+[addterminus_list]
+	0	EMPTY	EMPTY						A3ME	^
+{ALLEX}	0	NOT IN SERVICE	NOT IN SERVICE	SORRY...	NOT IN SERVICE				NIS	^
+	0	NEW JOHN CITY	NEW JOHN CITY	NEW JOHN CITY		WELCOMES YOU		NJC	NJC	^
+	0	CHARTERED	CHARTERED	CHARTERED				CHART	CHAR	^
+	0	1 Highway 27 - Pioneer Village	HIGHWAY 27	HIGHWAY 27	to PIONEER VILLAGE TERM			1	222-PM	1
+	0	21 Bluestone Local	BLUESTONE	BLUESTONE	>> 14th AVE >>	BLUESTONE	>> MCMASTER AVE >> 	21	21	21
+	0	96 Yonge	YONGE	YONGE	to PIONEER VILLAGE TERM			96	105-SB	96
+	0	96 Yonge - Rutherford	YONGE	YONGE	to RUTHERFORD GO STN			96	3-EB	96
+[end]
+
+[addbusstop_list]
+STOP NAME	VISION NAME	SCREEN NAME 1	SCREEN NAME 2 (optional)
+#3627 on Steeles	STEELES	#3627 on Steeles
+#4483 on Humber College	HUMBER COLLEGE	#4483 on Humber College
+#6951 on Humber College Terminal	HUMBER COLLEGE	#6951 on Humber College	Terminal
+Albion and Highway 27	ALBION	Albion Rd
+Castle Oaks Crossing and Highway 27	CASTLE OAKS	Castle Oaks Crossing
+Dixon and Highway 27	Dixon Rd
+Doughton and Steeles	Doughton Rd
+Finch and Jane	Finch
+Highway 27 and Cranston Park	Cranston Park
+Highway 27 and Finch Av	Highway 27	Highway 27
+Highway 27 and Steeles	STEELES	Steeles Av
+Humber College at Highway 27	HUMBER	Humber College Blvd
+Hwy 27 and Finch Av	Finch Avenue
+Industrial at Graniteridge Rd
+New Huntington Road at Huntington Road at Huntington Road at Huntington Road
+Norwood and Highway 27	NORWOOD	Norwood Rd
+Pioneer Village Stn		Pioneer Village Stn
+Silverstone and Finch		Finch Av
+Silverstone and Industrial		Silverstone Dr
+Silverstone at Graniteridge Rd	Graniteridge Rd
+Spadina and St Clair	Spadina
+St Clair and Yonge	St Clair
+Thompson and Highway 27	Thompson Rd
+Yonge and Sheppard Ave	Yonge St
+[end]
+	[infosystem_trip]												
+	{routecode} (z.B. '540001', integer)												
+	{routestring} (ggf. für IBIS-Gerät oder vieleicht später auch zum Setzen)												
+	{terminuscode}												
+	{line string} (z.B. '54 ')												
+													
+	[infosystem_busstop]												
+	{string0: IBIS-Name}												
+	{string1: LCD 1. Zeile links}												
+	{string2: LCD 1. Zeile rechts}												
+	{string3: LCD 2. Zeile links}												
+	{string4: LCD 2. Zeile rechts}					

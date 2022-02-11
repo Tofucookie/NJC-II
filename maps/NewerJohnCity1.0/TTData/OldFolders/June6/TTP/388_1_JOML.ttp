@@ -1,0 +1,69 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+388 Brandonville - Yonge
+388
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2413
+
+[station_typ2]
+2417
+
+[station_typ2]
+2423
+
+[station_typ2]
+2558
+
+[station_typ2]
+2432
+
+[station_typ2]
+2388
+
+[station_typ2]
+2446
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+4
+4.000
+
+[profile_otherstopping]
+0
+3
+[profile_otherstopping]
+6
+1
+[profile]
+5
+5.000
+
+[profile_otherstopping]
+0
+3
+[profile_otherstopping]
+6
+1
+[profile]
+3
+3.000
+
+[profile_otherstopping]
+6
+3

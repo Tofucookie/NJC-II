@@ -1,0 +1,55 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+NIS-GO LUMBERJACKS GO
+82
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2743
+
+[station_typ2]
+2744
+
+[station_typ2]
+1900
+
+[station_typ2]
+6411
+
+[station_typ2]
+10501
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+6.000
+
+[profile_otherstopping]
+0
+2
+[profile_otherstopping]
+1
+2
+[profile_otherstopping]
+2
+2
+[profile_otherstopping]
+3
+1
+[profile_otherstopping]
+4
+1

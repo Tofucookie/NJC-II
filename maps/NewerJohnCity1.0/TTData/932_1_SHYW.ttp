@@ -1,0 +1,52 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-11-18
+
+[trip]
+
+NOT IN SERVICE
+
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+4630
+
+[station_typ2]
+1909
+
+[station_typ2]
+224
+
+[station_typ2]
+1910
+
+[station_typ2]
+1911
+
+[station_typ2]
+1912
+
+[station_typ2]
+1913
+
+[station_typ2]
+1914
+
+[station_typ2]
+2743
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+10.000
+

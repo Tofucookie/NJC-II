@@ -1,0 +1,37 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-07
+
+[trip]
+
+NIS-INSTAGRAM
+
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2930
+
+[station_typ2]
+1936
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+overnight
+1.000
+
+[profile_otherstopping]
+0
+2
+[profile_otherstopping]
+1
+1

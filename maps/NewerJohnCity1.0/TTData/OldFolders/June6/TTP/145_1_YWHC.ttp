@@ -1,0 +1,67 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 2021-06-05
+
+[trip]
+
+145 Humber College Express - PM
+145
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2743
+
+[station_typ2]
+2744
+
+[station_typ2]
+6018
+
+[station_typ2]
+6022
+
+[station_typ2]
+3005
+
+[station_typ2]
+2904
+
+[station_typ2]
+1915
+
+[station_typ2]
+1347
+
+[station_typ2]
+1657
+
+[station_typ2]
+1695
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+12.000
+
+[profile_otherstopping]
+0
+2
+[profile_man_arr_time]
+5
+3.000
+[profile_man_arr_time]
+9
+12.000
+[profile_otherstopping]
+9
+4
